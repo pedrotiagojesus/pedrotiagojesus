@@ -20,7 +20,7 @@
 ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=JQuery)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
-![Firebase](https://img.shields.io/badge/-Firebase-3333![](https://komarev.com/ghpvc/?username=pedrotiagojesus&color=006bed)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
 
 ## 🌐 Where to find me
 
