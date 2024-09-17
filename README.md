@@ -31,6 +31,6 @@
 
 ## Where to find me
 
-[![Linkedin](https://img.shields.io/badge/-Pedro_Jesus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-jesus-7a1654140/)
-[![Gmail Badge](https://img.shields.io/badge/-pedrotiagojesus1995@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrotiagojesus1995@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/pedrotiagojesus?label=follow&style=social)
+[![Linkedin](https://img.shields.io/badge/-Pedro_Jesus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-jesus-7a1654140/)]
+[![Gmail Badge](https://img.shields.io/badge/-pedrotiagojesus1995@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrotiagojesus1995@gmail.com)]
+[![GitHub](https://img.shields.io/github/followers/pedrotiagojesus?label=follow&style=social)]
